@@ -96,7 +96,7 @@ body {text-align: center;}
 }
 article {width: 66.6%; float: left;}
 aside {width: 33.3%; float: right;}
-
+.clear {clear: both;}
 
 
 
