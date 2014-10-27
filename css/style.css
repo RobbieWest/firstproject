@@ -89,7 +89,7 @@ input, select {
 
 
 /*** Main Layout ***/
-body {text-align: center;}
+body {text-align: center; color: #fff;}
 #wrapper {
 	width: 960px;
 	margin: 0 auto;
