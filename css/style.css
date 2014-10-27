@@ -103,7 +103,9 @@ input, select {
 
 
 /*** Header ***/
-
+nav li{
+	display: inline;
+}
 
 
 
