@@ -109,10 +109,18 @@ aside {width: 33.3%; float: right;}
 
 
 /*** Header ***/
+h3 {
+	font-size: 35px;
+	text-align: center;
+	color: brown;
+}
 nav li{
 	display: inline;
+	margin-left: 200px;
 }
-
+html {
+	background-color:#000000;
+}
 
 
 
