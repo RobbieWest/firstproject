@@ -119,6 +119,9 @@ article h2 {
 
 /*** Header ***/
 header h3 {
+	border-style: solid;
+	border-color:white;
+	border-width:2px;
 	font-size: 35px;
 	text-align: center;
 	color: brown;
