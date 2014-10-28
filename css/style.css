@@ -120,16 +120,20 @@ article h2 {
 /*** Header ***/
 header h3 {
 	border-style: solid;
-	border-color:white;
+	border-color:purple;
 	border-width:2px;
 	font-size: 35px;
 	text-align: center;
 	color: brown;
 }
 nav li{
+	border-style: solid;
+	border-color:purple;
+	border-width:2px;
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
+	
 }
 
 
@@ -160,6 +164,7 @@ nav li{
 /*** Sidebar and Footer ***/
 aside {
 	font-size: 25px
+	
 }
 
 footer { padding-top: 15px}
