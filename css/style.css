@@ -95,7 +95,7 @@ body {text-align: center; color: #fff;}
 	margin: 0 auto;
 }
 article {width: 66.6%; float: left;}
-aside {width: 33.3%; float: right;}
+aside {width: 33.3%; float: right; margin-left: 125px}
 .clear {clear: both;}
 
 
