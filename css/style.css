@@ -127,6 +127,7 @@ nav li{
 	font-size: 35px;
 	padding: 5px 20px;
 }
+nav li.last {margin-right: 0;}
 
 
 
