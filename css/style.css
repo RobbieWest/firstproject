@@ -163,7 +163,7 @@ aside {
 }
 aside div {border: solid 2px purple; height: 180px; padding-top: 100px;}
 
-footer { padding-top: 15px}
+footer { padding-top: 25px; text-align: left; }
 
 
 
